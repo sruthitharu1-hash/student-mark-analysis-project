@@ -95,7 +95,7 @@ section[data-testid="stSidebar"] {
 # DATA FILE
 # =========================================================
 
-DATA_FILE = Path(__file__).parent / "data" / "students.csv"
+DATA_FILE = Path(__file__).parent/ "students.csv"
 
 subjects = [
     "Mathematics",
